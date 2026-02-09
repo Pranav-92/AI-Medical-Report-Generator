@@ -1,0 +1,150 @@
+{
+  "patient_name": "Unknown",
+  "report_date": "2026-02-03",
+  "results": [
+    {
+      "test": "MEAN CORPUSCULAR HEMOGLOBIN(MCH)",
+      "value": 27.0,
+      "normal_range": "0.0\u201332.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 4,
+      "patient_explanation": "MEAN CORPUSCULAR HEMOGLOBIN(MCH) is within the normal range."
+    },
+    {
+      "test": "X",
+      "value": 10.0,
+      "normal_range": "3.8\u20134.8",
+      "status": "High",
+      "flagged": true,
+      "page_no": 4,
+      "patient_explanation": "X is higher than normal. This may need medical attention or lifestyle changes."
+    },
+    {
+      "test": "AVERAGE BLOOD GLUCOSE (ABG)",
+      "value": 9.0,
+      "normal_range": "0.0\u2013120.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 4,
+      "patient_explanation": "AVERAGE BLOOD GLUCOSE (ABG) is within the normal range."
+    },
+    {
+      "test": "FASTING BLOOD SUGAR(GLUCOSE)",
+      "value": 7.0,
+      "normal_range": "0.0\u2013100.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 4,
+      "patient_explanation": "FASTING BLOOD SUGAR(GLUCOSE) is within the normal range."
+    },
+    {
+      "test": "SERUM",
+      "value": 0.5,
+      "normal_range": "5.0\u20131.02",
+      "status": "Low",
+      "flagged": true,
+      "page_no": 4,
+      "patient_explanation": "SERUM is lower than normal, which may cause symptoms like weakness or fatigue."
+    },
+    {
+      "test": "dL",
+      "value": 12.5,
+      "normal_range": "12.0\u201315.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 8,
+      "patient_explanation": "dL is within the normal range."
+    },
+    {
+      "test": "X",
+      "value": 10.0,
+      "normal_range": "3.8\u20134.8",
+      "status": "High",
+      "flagged": true,
+      "page_no": 8,
+      "patient_explanation": "X is higher than normal. This may need medical attention or lifestyle changes."
+    },
+    {
+      "test": "pq",
+      "value": 25.5,
+      "normal_range": "27.0\u201332.0",
+      "status": "Low",
+      "flagged": true,
+      "page_no": 8,
+      "patient_explanation": "pq is lower than normal, which may cause symptoms like weakness or fatigue."
+    },
+    {
+      "test": "X",
+      "value": 10.0,
+      "normal_range": "4.0\u201310.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 8,
+      "patient_explanation": "X is within the normal range."
+    },
+    {
+      "test": "X",
+      "value": 10.0,
+      "normal_range": "150.0\u2013410.0",
+      "status": "Low",
+      "flagged": true,
+      "page_no": 8,
+      "patient_explanation": "X is lower than normal, which may cause symptoms like weakness or fatigue."
+    },
+    {
+      "test": "fL",
+      "value": 9.5,
+      "normal_range": "6.5\u201312.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 8,
+      "patient_explanation": "fL is within the normal range."
+    },
+    {
+      "test": "fL",
+      "value": 10.8,
+      "normal_range": "9.6\u201315.2",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 8,
+      "patient_explanation": "fL is within the normal range."
+    },
+    {
+      "test": "BLOOD UREA NITROGEN (BUN) PHOTOMETRY",
+      "value": 7.9,
+      "normal_range": "4.0\u201320.07",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 21,
+      "patient_explanation": "BLOOD UREA NITROGEN (BUN) PHOTOMETRY is within the normal range."
+    },
+    {
+      "test": "SERUM PHOTOMETRY",
+      "value": 0.5,
+      "normal_range": "5.0\u20131.02",
+      "status": "Low",
+      "flagged": true,
+      "page_no": 21,
+      "patient_explanation": "SERUM PHOTOMETRY is lower than normal, which may cause symptoms like weakness or fatigue."
+    },
+    {
+      "test": "CREATININE RATIO CALCULATED",
+      "value": 9.0,
+      "normal_range": "1.0\u201323.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 21,
+      "patient_explanation": "CREATININE RATIO CALCULATED is within the normal range."
+    },
+    {
+      "test": "DIRECT PHOTOMETRY",
+      "value": 4.0,
+      "normal_range": "0.0\u201360.0",
+      "status": "Normal",
+      "flagged": false,
+      "page_no": 24,
+      "patient_explanation": "DIRECT PHOTOMETRY is within the normal range."
+    }
+  ]
+}
