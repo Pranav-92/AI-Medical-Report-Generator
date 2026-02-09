@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "total_markers": 30,
+    "abnormal_count": 8
+  },
+  "abnormal_findings": [
+    {"test": "MCH", "status": "LOW"},
+    {"test": "MCV", "status": "LOW"},
+    {"test": "IRON", "status": "LOW"},
+    {"test": "ZINC", "status": "LOW"},
+    {"test": "FASTING BLOOD SUGAR", "status": "HIGH"},
+    {"test": "AVERAGE BLOOD GLUCOSE", "status": "HIGH"},
+    {"test": "URINARY PUS CELLS", "status": "HIGH"},
+    {"test": "T3/T4", "status": "LOW"}
+  ]
+}
